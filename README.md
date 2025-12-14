@@ -1,16 +1,20 @@
-## Hi there 👋
+# Dat Pham
 
-<!--
-**csysops/csysops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems-focused software engineer interested in operating systems, networking,
+and low-level programming in C/C++.
 
-Here are some ideas to get you started:
+## Areas of Focus
+- UNIX systems programming
+- Networking (TCP/IP, HTTP, sockets)
+- Operating system internals
+- Performance, memory, and correctness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- [mini-nginx](link): Event-driven HTTP server in C using epoll
+- [fs-simulator](link): Simple Unix-like file system implementation
+- [compiler-c](link): C compiler targeting x86-64 assembly
+
+## Currently Learning
+- Linux kernel source
+- Advanced UNIX programming
+- Computer organization and architecture
