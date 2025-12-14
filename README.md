@@ -12,3 +12,4 @@ and low-level programming in C/C++.
 - chathub
 - book
 - mad-course
+- chathub-desktop
