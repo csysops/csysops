@@ -1,7 +1,7 @@
 # Hi,csysops
 
-Systems-focused software engineer interested in operating systems, networking,
-and low-level programming in C/C++.
+Systems-focused system engineer interested in os, net,
+and low-level programming.
 
 ## Naming
 - ! uppercase
