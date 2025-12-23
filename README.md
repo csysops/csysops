@@ -7,7 +7,7 @@ and low-level programming.
 - ! uppercase
 - ! plural
 - space == '-'
-- *-"course-name"-course
+- *-`<course-name>`-course
 
 ## Tracked
 - book
