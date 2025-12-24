@@ -9,11 +9,7 @@ and low-level programming.
 - space == '-'
 - *-`<course-name>`-course
 
-## Tracked
-- book
-- chathub
-- chathub-desktop
-- mad-course
-- iot-course
+## Archived
+- 
 
 
