@@ -15,5 +15,5 @@ and low-level programming.
 - chathub-desktop
 - mad-course
 - iot-course
-[Repo B](https://github.com/USER/repo-b)
+
 
