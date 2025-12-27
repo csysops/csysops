@@ -8,7 +8,5 @@ and low-level programming.
 - space == '-'
 - *-`<course-name>`-course
 
-## Archived
-- 
 
 
