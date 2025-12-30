@@ -10,7 +10,7 @@ and low-level programming.
 - ! (uppercase || plural)
 - space == '-'
 - *-`<course-name>`-course
-- `dsa` > `dsa-implementation`, leave the job for `README`
+- `dsa` > `dsa-implementation`, `file-compression` > `file-compression-tool`, leave the job for `README`
 
 
 
