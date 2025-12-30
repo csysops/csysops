@@ -5,8 +5,8 @@ and low-level programming.
 
 ### Rule
 - code in `src/` || folder
-- must include `docs/`
 - exact `.gitignore` template && must include `.env`
+- must include `docs/`
 ### Naming
 - ! (uppercase || plural)
 - space == '-'
