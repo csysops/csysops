@@ -12,7 +12,6 @@ and low-level programming.
 - space == '-'
 - *-`<course-name>`-course
 - `dsa` > `dsa-implementation`, `file-compression` > `file-compression-tool`, leave the job for `README`
-
-
-
-
+### MD
+- ~digit chap name
+- capital each section name
