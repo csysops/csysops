@@ -15,3 +15,6 @@ and low-level programming.
 ### MD
 - ~digit chap name
 - capital each section name
+### Mind of Learning
+- Discard unrelated
+- Respect the thought
