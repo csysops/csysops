@@ -18,3 +18,4 @@ and low-level programming.
 ### Mind of Learning
 - Discard unrelated
 - Respect the thought
+- Layer the explain
