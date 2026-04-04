@@ -19,3 +19,15 @@ and low-level programming.
 - Discard unrelated
 - Respect the thought
 - Layer the explain
+### table
+
+0. doughnut
+1. candle
+2. swan
+3. trident
+4. chair 
+5. seahorse
+6. lock
+8. boomerang
+9. snowman
+10. baloon
