@@ -1,24 +1,24 @@
-# Hi,csysops
+# hi,csysops
 
-Systems-focused system engineer interested in os, net,
+systems-focused system engineer interested in os, net,
 and low-level programming.
 
-### Rule
+### rule
 - code in `src/` || folder
 - exact `.gitignore` template && must include `.env`
 - must include `docs/`
-### Naming
+### naming
 - ! (uppercase || plural)
 - space == '-'
 - *-`<course-name>`-course
-- `dsa` > `dsa-implementation`, `file-compression` > `file-compression-tool`, leave the job for `README`
-### MD
+- `dsa` > `dsa-implementation`, `file-compression` > `file-compression-tool`, leave the job for `readme`
+### md
 - ~digit chap name
 - capital each section name
-### Mind of Learning
-- Discard unrelated
-- Respect the thought
-- Layer the explain
+### mind of learning
+- discard unrelated
+- respect the thought
+- layer the explain
 ### table
 
 0. doughnut
