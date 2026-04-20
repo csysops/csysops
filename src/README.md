@@ -1,4 +1,4 @@
-# CHAPTERNAME
-1. section
+CHAPTER NAME
+1. section name
 - point
 2.
