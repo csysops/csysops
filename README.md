@@ -1,7 +1,6 @@
 # hi,csysops
 
-systems-focused system engineer interested in os, net,
-and low-level programming.
+systems-focused.
 
 ### rule
 - code in `src/` || folder
