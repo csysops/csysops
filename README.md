@@ -1,5 +1,4 @@
-# hi,csysops
-
+# CSYSOPS
 systems-focused.
 
 ### rule
@@ -12,8 +11,7 @@ systems-focused.
 - *-`<course-name>`-course
 - `dsa` > `dsa-implementation`, `file-compression` > `file-compression-tool`, leave the job for `readme`
 ### md
-- ~digit chap name
-- capital each section name
+- first UPPER, below LOWER
 ### mind of learning
 - discard unrelated
 - respect the thought
