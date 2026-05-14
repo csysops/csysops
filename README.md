@@ -15,7 +15,7 @@ systems-focused.
 ### mind of learning
 - discard unrelated
 - respect the thought
-- layer the explain
+- layer de explain
 ### table
 
 0. doughnut
