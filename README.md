@@ -4,7 +4,7 @@ systems-focused.
 ### rule
 - code in `src/` || folder
 - exact `.gitignore` template && must include `.env`
-- must include `docs/`
+- contain `docs/`
 ### naming
 - ! (uppercase || plural)
 - space == '-'
